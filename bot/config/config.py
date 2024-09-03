@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     AUTO_TASK_1: bool = True
     AUTO_TASK_2: bool = True
     AUTO_TASK_3: bool = True
-    REF_ID: str = ''
+    REF_ID: str = 'wde1HmcA'
 
     USE_PROXY_FROM_FILE: bool = False
 
