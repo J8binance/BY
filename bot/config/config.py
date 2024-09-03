@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     AUTO_TASK_3: bool = True
     REF_ID: str = 'wde1HmcA'
 
-    USE_PROXY_FROM_FILE: bool = False
+    USE_PROXY_FROM_FILE: bool = True
 
 
 settings = Settings()
